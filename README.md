@@ -10,7 +10,6 @@ every React component under the sun. So, what does "awesome" mean? Well:
 Look for a 🚀 for truly amazing projects. And look for quickie maintainer
 commentary and reviews in _(italic parens)_ after some listings of note.
 
-See also: [Awesome React Frameworks](https://github.com/brillout/awesome-react-frameworks).
 
 Maintainers:
 
